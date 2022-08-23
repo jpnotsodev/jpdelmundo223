@@ -15,7 +15,7 @@
 * Amazon S3 and EC2
 
 #### I'm currently learning ...
-* SQL Server Inegration Services
+* SQL Server Integration Services
 * Extract, Transform, and Loading Concepts
 * Object Oriented Programming in Python
 * Data Structures and Algorithims (including lists, sets, and dictionaries...)
