@@ -8,8 +8,9 @@
 
 #### I'm currently learning ...
 * SQL Server Inegration Services
-* Extract, Transform, Load
-* Object Oriented Programming using Python
+* Extract, Transform, and Loading Concepts
+* Object Oriented Programming in Python
+* Data Structures and Algorithims (including lists, sets, and dictionaries...)
 * Tablaue
 
 #### Some of my personal projects and portfolio ...
