@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @jpdelmundo223
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Backend Development
+### I'm John Paul Del Mundo
 
 <!---
 jpdelmundo223/jpdelmundo223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
