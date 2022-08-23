@@ -1,10 +1,18 @@
-### Hi!, I'm **John Paul**
+### Hi! :wave:, I'm **John Paul** 
 ##### And I curently work as a Database Administrator (for Microsoft SQL Server, and MySQL database engine products) since 2021.
+----
 
 #### I'm skilled with ...
 * SQL (Structured Query Language)
 * Python 3 (and up...)
 * HTML, CSS, Javascript (Basics)
+
+#### Working knowledge with tools such as ...
+* SSDT
+* VS Code
+* PyCharm
+* SQL Server Management Studio
+* Amazon S3 and EC2
 
 #### I'm currently learning ...
 * SQL Server Inegration Services
