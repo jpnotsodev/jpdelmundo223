@@ -1,4 +1,4 @@
-#### Hi!, I'm **John Paul**
+### Hi!, I'm **John Paul**
 ##### And I curently work as a Database Administrator (for Microsoft SQL Server, and MySQL database engine products) since 2021.
 
 #### I'm skilled with ...
