@@ -12,7 +12,7 @@
 * Object Oriented Programming using Python
 * Tablaue
 
-#### Some of my personal portfolio and projects ...
+#### Some of my personal projects and portfolio ...
 * **DragonPay Scraper** *Click [here](https://github.com/jpdelmundo223/dragonpay-scraper) to see code*
 * **8 Weeks SQL Challange** *Click [here](https://github.com/jpdelmundo223/8-weeks-sql-challenge) to see code*
 
